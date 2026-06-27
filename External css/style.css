@@ -1,0 +1,12 @@
+body{
+    background-color:aliceblue;
+}
+h1{
+    color:darkgoldenrod;
+    text-alingn:center;
+    margin_top:20px;
+}
+p{
+    color:salmon(143,92,15,0.603);
+    font-size:16px;
+}
